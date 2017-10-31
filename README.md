@@ -1,4 +1,4 @@
-#ADSO
+# ADSO #
 
 Este repositorio contiene los documentos de cada unos de los objetivos de la asignatura de ADSO impartida en el campus EPSEVG.
 
