@@ -14,7 +14,7 @@ Este repositorio contiene los documentos de cada unos de los objetivos de la asi
 
 ## Descargas ##
 
-[LiveCD](https://drive.google.com/open?id=0B1GMQ--ERnlOZGxMbEc5anNUUEE)
-[Ficheros instalación](https://drive.google.com/open?id=1FbyPCYxx80i77mVUokFafuXGMjbn5v3B)
-[Aplicaciones objetivo 2](https://drive.google.com/open?id=0B1GMQ--ERnlOc3RCV09ueU9iVUU)
+- [LiveCD](https://drive.google.com/open?id=0B1GMQ--ERnlOZGxMbEc5anNUUEE)
+- [Ficheros instalación](https://drive.google.com/open?id=1FbyPCYxx80i77mVUokFafuXGMjbn5v3B)
+- [Aplicaciones objetivo 2](https://drive.google.com/open?id=0B1GMQ--ERnlOc3RCV09ueU9iVUU)
 
