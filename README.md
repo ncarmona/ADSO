@@ -17,11 +17,11 @@ Este repositorio contiene los documentos de cada unos de los objetivos de la asi
 - [LiveCD](https://drive.google.com/open?id=0B1GMQ--ERnlOZGxMbEc5anNUUEE)
 - [Ficheros instalación](https://drive.google.com/open?id=1FbyPCYxx80i77mVUokFafuXGMjbn5v3B)
 - [Aplicaciones objetivo 2](https://drive.google.com/open?id=0B1GMQ--ERnlOc3RCV09ueU9iVUU)
+- [Máquina virtual con los 7 objetivos](#)
 
 ## Notas ##
 
 __Objetivo 4__
 
 1. Hay una puerta trasera en el sistema, hay que deshabilitar el usuario "adm".
-
 
